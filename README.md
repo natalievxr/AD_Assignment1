@@ -11,9 +11,9 @@ The analysis is divided into two main parts:
 * Stemming comparison using Porter and Lancaster stemmers
 * POS tagging analysis of three translations of "Tom Sawyer" in different languages
 ## Part 2: Named Entity Recognition
-NER using spaCy on the same text collection
-Manual annotation of sample sentences
-Performance evaluation (Precision, Recall, F1 Score)
+* NER using spaCy on the same text collection
+* Manual annotation of sample sentences
+* Performance evaluation (Precision, Recall, F1 Score)
 ### Key Findings
 ### Word Frequency Analysis
 * Common stop words dominated the frequency counts in the raw text.
